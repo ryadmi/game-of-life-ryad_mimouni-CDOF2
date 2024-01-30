@@ -3,7 +3,7 @@
 Implementation of Conway's Game of Life
 
 
-Welcome to ryadmi's "Game of Life" implementation.
+Welcome to Ryad_MIMOUNI's "Game of Life" implementation.
 
 
 
