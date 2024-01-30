@@ -1,4 +1,4 @@
-# game-of-life-ryadmi
+# game-of-life-ryad_mimouni-CDOF2
 
 Implementation of Conway's Game of Life
 
