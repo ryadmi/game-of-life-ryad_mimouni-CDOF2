@@ -16,7 +16,7 @@ The Game of Life is a cellular automaton designed by John Conway. It takes place
 ## How to play
 
 1. Download python to your machine.
-2. Clone this repository: `git clone https://github.com/ryadmi/game-of-life-ryadmi.git`
+2. Clone this repository: `git clone https://github.com/ryadmi/game-of-life-ryad_mimouni-CDOF2.git`
 3. Go to the project directory: `cd game-of-life-ryadmi`
 4. Launch the game: `python game_of_life.py`
 
